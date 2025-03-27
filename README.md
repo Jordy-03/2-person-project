@@ -7,11 +7,13 @@ the game.<br>
 Link: https://jordy-03.github.io/2-person-project/
 
 ## Objective:
-Defend planet Earth from impending doom as multiple meteors threaten all life! Blast them
-from outer space before they can touch the base of Earth.
+Defend planet Earth from impending doom as multiple asteroids threaten all life! Blast them
+from outer space before they can touch the base of Earth. You are provided a space ship
+equiped with multiple cannons that shoot beams towards the asteroids, completely
+incinerating them. Good luck!
 
 ## Controls:
 A - Left<br>
 D - Right<br>
 LMB - Single shot<br>
-RMB - 3-way shot<br>
+RMB - Special Ability<br>
