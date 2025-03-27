@@ -10,7 +10,8 @@ Link: https://jordy-03.github.io/2-person-project/
 Defend planet Earth from impending doom as multiple asteroids threaten all life! Blast them
 from outer space before they can touch the base of Earth. You are provided a space ship
 equiped with multiple cannons that shoot beams towards the asteroids, completely
-incinerating them. Good luck!
+incinerating them. Ensure you aren't destroyed in the process of defending planet
+Earth from immediate threat. Good luck!
 
 ## Controls:
 A - Left<br>
